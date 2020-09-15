@@ -1,0 +1,33 @@
+[00:28:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/66990, l='ServerLevel[world]', x=237.28, y=60.00, z=153.88]
+[00:35:06] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/68153, l='ServerLevel[world]', x=237.80, y=60.00, z=155.35]
+[01:21:40] [Server thread/INFO]: ___OO___ lost connection: Disconnected
+[01:21:40] [Server thread/INFO]: ___OO___ left the game
+[01:32:04] [User Authenticator #7/INFO]: UUID of player ___OO___ is 2edc97a3-a50d-4e52-ab00-2decb998d9a0
+[01:32:04] [Server thread/INFO]: ___OO___[/71.136.240.185:55587] logged in with entity id 74796 at (203.5, 63.0, 152.5)
+[01:32:04] [Server thread/INFO]: ___OO___ joined the game
+[02:03:25] [Server thread/INFO]: ___OO___ was slain by Spider
+[02:08:49] [Server thread/INFO]: Villager bfg['Villager'/79895, l='ServerLevel[world]', x=656.70, y=56.00, z=317.30] died, message: 'Villager was slain by Zombie'
+[02:12:17] [Server thread/INFO]: ___OO___ lost connection: Disconnected
+[02:12:17] [Server thread/INFO]: ___OO___ left the game
+[12:02:08] [User Authenticator #8/INFO]: UUID of player Yanna77 is a659e725-e66a-4db3-bb1c-0b4166f44268
+[12:02:08] [Server thread/INFO]: Yanna77[/192.168.0.6:54584] logged in with entity id 80961 at (204.29074666378744, 67.0, 151.8286177310413)
+[12:02:08] [Server thread/INFO]: Yanna77 joined the game
+[12:03:11] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/81174, l='ServerLevel[world]', x=235.25, y=60.00, z=155.36]
+[12:13:22] [Server thread/INFO]: Yanna77 lost connection: Disconnected
+[12:13:22] [Server thread/INFO]: Yanna77 left the game
+[12:22:52] [Server thread/INFO]: [Rcon: Stopping the server]
+[12:22:52] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:22:52] [Server thread/INFO]: Stopping server
+[12:22:52] [Server thread/INFO]: Saving players
+[12:22:52] [Server thread/INFO]: Saving worlds
+[12:22:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:22:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:22:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:22:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:22:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:22:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:22:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:22:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:22:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:22:53] [Server thread/INFO]: Thread RCON Listener stopped
+[12:22:53] [Server thread/INFO]: Thread Query Listener stopped
